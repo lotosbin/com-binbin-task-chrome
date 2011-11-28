@@ -1,0 +1,10 @@
+﻿{ 
+  "name": "BinbinTask", 
+  "version": "0.0.0.1", 
+  "description": "Manage Task", 
+  "browser_action": { 
+    "default_icon": "./res/icon/icon16.png" ,
+    "default_title": "My Task List",
+    "default_popup": "popup.html"
+  } 
+}
